@@ -1,0 +1,24 @@
+Topics:
+Unidimensional Arrays
+MultiDimensional Arrays
+Sorting
+    @Selection Sort
+    @Bubble Sort
+    @Insertion Sort
+    @QuickSort
+Recursion
+Encapsulation
+Sets
+Lists
+    @LinkedLists
+    @DoublyLinkedList
+    @ArrayList
+Performance
+Stacks
+Queues
+ADTS
+Trees
+    @Binary Trees
+Hash Tables
+Maps
+
